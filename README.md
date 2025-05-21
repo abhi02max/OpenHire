@@ -54,7 +54,7 @@ Git for cloning the repository.
 Steps
 
 Clone the Repository:
-git clone https://github.com/your-username/openhire.git
+git clone https://github.com/abhi02-max/openhire.git
 cd openhire
 
 
