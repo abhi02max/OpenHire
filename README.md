@@ -139,9 +139,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For questions or feedback:
 
-Email: abhideep0204@gmail.com (update with your team’s email)
+Email: abhideep0204@gmail.com 
 GitHub Issues: Open an issue
-Project Lead: Abhideep
+Project Lead: Abhideep/Aishwarya
+
 
 Acknowledgments
 
